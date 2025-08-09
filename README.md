@@ -21,3 +21,4 @@ Team Name: Mathlets
  Team Contributions:
  Anila S: HTML/CSS structure, UI design, witty fate messages
  Sivananda P: JavaScript fall logic, animations, testing
+ 
