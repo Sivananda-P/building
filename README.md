@@ -40,7 +40,7 @@ We built a cartoonish web app that uses unscientific fall physics and random hum
 **For Hardware:**
 * **Main Components:** Any device with a web browser
 
-![Screenshot1](images/Screenshot%202025-08-09%20034113.png)
+![Screenshot1](https://github.com/Sivananda-P/building/blob/master/Screenshot%202025-08-09%20034113.png)
 ![Screenshot2](images/Screenshot%202025-08-09%20034203.png)
 
 
